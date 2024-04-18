@@ -1,0 +1,28 @@
+1 - O que significa HTML e qual é o seu papel na web?
+R: O HTML significa Linguagem de Marcação de Hipertexto e seu papel na web é ser o "esqueleto"/estrutura
+das páginas web, exibindo conteúdos e redirecionando para outras páginas.
+
+2 - Liste três elementos HTML de nível de bloco e explique sua função.
+R:  <h1>: é a tag para título de nível 1 (com maior importância);
+    <div>: é utilizada como uma "divisão" para separar conteúdos e aplicar estilos a seus elementos;
+    <p>: é a tag de parágrafo.
+
+3 - Liste três elementos HTML de nível de linha e explique sua função.
+R:  <a>: é a tag para "linkar"/redirecionar para elementos da página ou para outras páginas;
+    <strong>: deixa o texto em negrito, mostrando sua importância;
+    <i>: deixa o texto em itálico.
+
+4 - O que significa CSS e qual é a sua função na web?
+R: Significa Cascade Style Sheet (Estilização em Cascata) e sua função é aplicar estilos e deixar a
+página dinâmica.
+
+5 - O que é um seletor em CSS? Cite três exemplos de seletores.
+R:  Os seletores selecionam qual elemento irá ser aplicado as propriedades a serem adicionadas.
+Exemplos:
+    seletor por tag - adiciona as propriedades nos elementos com aquele nome de tag, ou seja,
+                      referencia a própria tag;
+    seletor por classe - adiciona as propriedades nos elementos que estão com aquele valor do
+                         atributo classe;
+    seletor por id - adiciona as propriedades nos elementos que estão com aquele valor do
+                     atributo id.
+
